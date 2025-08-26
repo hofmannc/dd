@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Wie lautet der Titel des Softwareprojekts?",
+    "set": "",
+    "values": "Bilderbucherkennung in Mat"
+  },
+  {
+    "question": "In welche Anwendungsklasse wird die Software eingeordnet?",
+    "set": "",
+    "values": "Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gew\u00e4hrleisten. Sie ist die Grundlage f\u00fcr einen \u00dcbergang zum Produktstatus."
+  },
+  {
+    "question": "ORCID-Suche",
+    "set": "Set \"Manuela Naumann\"",
+    "values": "Michael Franke (Max Planck Digital Library) [0000-0002-2661-8242]"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Emil Fromm\"",
+    "values": "Fromm"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Gerd Hallmann\"",
+    "values": "Mauermann"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Ilse Jung\"",
+    "values": "Mauermann"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Klaus Lamm\"",
+    "values": "Mauermann"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Manuela Naumann\"",
+    "values": "Franke"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Emil Fromm\"",
+    "values": "Emil"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Gerd Hallmann\"",
+    "values": "Heiko"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Ilse Jung\"",
+    "values": "Heiko"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Klaus Lamm\"",
+    "values": "Heiko"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Manuela Naumann\"",
+    "values": "Michael"
+  },
+  {
+    "question": "ORCID ID",
+    "set": "Set \"Gerd Hallmann\"",
+    "values": "1234-5678-9101-1234"
+  },
+  {
+    "question": "ORCID ID",
+    "set": "Set \"Ilse Jung\"",
+    "values": "1234-5678-9101-1234"
+  },
+  {
+    "question": "ORCID ID",
+    "set": "Set \"Klaus Lamm\"",
+    "values": "1234-5678-9101-1234"
+  },
+  {
+    "question": "ORCID ID",
+    "set": "Set \"Manuela Naumann\"",
+    "values": "https://orcid.org/0000-0002-2661-8242"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"Gerd Hallmann\" Set #1",
+    "values": "Developer"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"Ilse Jung\" Set #1",
+    "values": "Developer"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"Klaus Lamm\" Set #1",
+    "values": "Developer"
+  },
+  {
+    "question": "ROR-Suche",
+    "set": "Set \"Gerd Hallmann\" Set #1",
+    "values": "Max Planck Society [01hhn8329]"
+  },
+  {
+    "question": "ROR-Suche",
+    "set": "Set \"Ilse Jung\" Set #1",
+    "values": "Max Planck Society [01hhn8329]"
+  },
+  {
+    "question": "ROR-Suche",
+    "set": "Set \"Klaus Lamm\" Set #1",
+    "values": "Max Planck Society [01hhn8329]"
+  },
+  {
+    "question": "ROR-Suche",
+    "set": "Set \"Manuela Naumann\" Set #1",
+    "values": "Max Planck Society [01hhn8329]"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Gerd Hallmann\" Set #1",
+    "values": "Max Planck Society"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Ilse Jung\" Set #1",
+    "values": "Max Planck Society"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Klaus Lamm\" Set #1",
+    "values": "Max Planck Society"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Manuela Naumann\" Set #1",
+    "values": "Max Planck Society"
+  },
+  {
+    "question": "ROR ID",
+    "set": "Set \"Gerd Hallmann\" Set #1",
+    "values": "https://ror.org/01hhn8329"
+  },
+  {
+    "question": "ROR ID",
+    "set": "Set \"Ilse Jung\" Set #1",
+    "values": "https://ror.org/01hhn8329"
+  },
+  {
+    "question": "ROR ID",
+    "set": "Set \"Klaus Lamm\" Set #1",
+    "values": "https://ror.org/01hhn8329"
+  },
+  {
+    "question": "ROR ID",
+    "set": "Set \"Manuela Naumann\" Set #1",
+    "values": "https://ror.org/01hhn8329"
+  }
+]
